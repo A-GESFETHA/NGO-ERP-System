@@ -12,6 +12,7 @@ For demonstration purposes, a guest account is available:
 |------|----------|----------|
 | Guest (Read-Only) | guest | guest123 |
 
+Guest user can only view Analytics and restricted to other features
 *For full administrative access or to request a custom account, please contact the development team.*
 ---
 
