@@ -42,8 +42,8 @@ Guest user can only view Analytics and restricted to other features
 
 | Name | Github |
 |------|------|
-| **A Gesfetha** | https://github.com/A-GESFETHA |
-| **Jananipriya N** | https://github.com/Jananipriya1311 |
+| **A Gesfetha** | [A-GESFETHA](https://github.com/A-GESFETHA) |
+| **Jananipriya N** | [Jananipriya1311](https://github.com/Jananipriya1311) |
 
 ---
 
@@ -64,7 +64,7 @@ Guest user can only view Analytics and restricted to other features
 1. **Clone the repository**
    ```bash
    git clone https://github.com/A-GESFETHA/NGO-ERP-System.git
-   
+    ```
 2.  **Open** index.html in your browser or use Live Server in VS Code
 
 3. **For Firebase Integration:**
@@ -74,7 +74,7 @@ Guest user can only view Analytics and restricted to other features
 
 ---
 ## Project Structure
-NGO-ERP-System/
+ ```NGO-ERP-System/
 ├── index.html              # Main dashboard
 ├── css/
 │   └── style.css          # All styles
@@ -84,9 +84,10 @@ NGO-ERP-System/
 ├── manifest.json          # PWA manifest
 ├── offline.html           # Offline fallback page
 └── README.md
-
+ ```
 ---
 ## 📝 Notes
 1. This is a team project developed during 5th semester
 2. The live demo is hosted on Firebase
 3. For security reasons, actual Firebase credentials are not included in this repository
+'''
